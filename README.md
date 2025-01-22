@@ -16,7 +16,9 @@ https://docs.ultralytics.com/models/
 <img src=https://github.com/ultralytics/docs/releases/download/0/ultralytics-yolov8-tasks-banner.avif width="600px">
 <img src=https://raw.githubusercontent.com/ultralytics/assets/refs/heads/main/yolo/performance-comparison.png width="600px">
 
-
+## Usage
+1. clone the repo to your databricks workspace
+2. run two notebooks after your own path/credential modifications in place
 
 ## Authors
 <yang.yang@databricks.com>
