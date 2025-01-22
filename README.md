@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4032b530-4b8f-46e5-972a-8c003629ffba)<img src=https://raw.githubusercontent.com/databricks-industry-solutions/.github/main/profile/solacc_logo.png width="600px">
+<img src=https://raw.githubusercontent.com/databricks-industry-solutions/.github/main/profile/solacc_logo.png width="600px">
 
 [![DBR](https://img.shields.io/badge/DBR-CHANGE_ME-red?logo=databricks&style=for-the-badge)](https://docs.databricks.com/release-notes/runtime/CHANGE_ME.html)
 [![CLOUD](https://img.shields.io/badge/CLOUD-CHANGE_ME-blue?logo=googlecloud&style=for-the-badge)](https://databricks.com/try-databricks)
@@ -6,7 +6,10 @@
 ## Business Problem
 Enable Computer Vision (CV) YOLO family models (Ultralytics) Multiple-GPU continued training on Databricks with UC storage and MLflow logging supported. 
 
-Dataset used in the demo is coco128: - https://docs.ultralytics.com/datasets/#dataset-structure - https://docs.ultralytics.com/datasets/detect/coco/
+Dataset used in the demo is coco128: 
+- https://docs.ultralytics.com/datasets/#dataset-structure
+- https://docs.ultralytics.com/datasets/detect/coco/
+  
 ## Reference Architecture
 https://docs.ultralytics.com/models/
 
